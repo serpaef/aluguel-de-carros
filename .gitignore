@@ -403,3 +403,4 @@ FodyWeavers.xsd
 
 # Compiler analysis files
 *.sarif
+src/RentCars.Test.Test/
