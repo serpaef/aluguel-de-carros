@@ -3,7 +3,7 @@ namespace RentCars.Types;
 //2 - Crie um enum `FuelType`
 public enum FuelType
 {
-    Alcoohol = 10,
+    Alcohol = 10,
     Gasoline = 20,
     Flex = 30,
     Diesel = 40,
